@@ -1,6 +1,7 @@
 # JoesRobotShopEnit
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0. \n
+This project is related to the second part of the third TP ("tp3")
 
 ## Development server
 
